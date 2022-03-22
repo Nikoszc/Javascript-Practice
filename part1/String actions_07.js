@@ -1,4 +1,4 @@
-// trim() 
+// trim() => trims the spaces in the string, Creates a new string and doesnt effects the original string.
 // toUpperCase()
 // toLowerCase()
 // slice()
