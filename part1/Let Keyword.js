@@ -1,5 +1,5 @@
 // let keyword 
-// declare variable with let keyword 
+// declare variable with let keyword rather than var 
 
 let firstName = "harshit";
 firstName = "Mohit";
