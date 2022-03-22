@@ -7,6 +7,10 @@
 
 var value1 = 2;
 console.log(value1);
+var value1 = 2;
+console.log(value1 ** 4); //Gives the 4th power of the value1. Output = 16
+console.log(value1 ** 0.5); //Gives the square root of the value1. Output = 1.4
+
 
 // you can use only undersore _ or dollar symbol 
 // first_name (valid)
