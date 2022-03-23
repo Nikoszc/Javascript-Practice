@@ -1,4 +1,4 @@
-// undefined 
+// undefined //const throws error when left unassigned ... whereas variables throw undefined as an output when typeof is called.
 // null
 
 // let firstName;
@@ -10,7 +10,7 @@
 // console.log(myVariable);
 // myVariable = "harshit";
 // console.log(myVariable, typeof myVariable);
-// console.log(typeof null);
+// console.log(typeof null); => output = object ** typeof of a string gives string, a number gives number but of null gives object. THis is a bug in javascript.
 // bug , error 
 
 // BigInt
