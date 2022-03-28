@@ -1,7 +1,7 @@
 # Javascript-Practice
 This contains file in which I coded and learnt javascript from absolute beginning to advanced topics.
-**Basic javascripts topics to learn before starting ReactJS.**
-
+##Basic javascripts topics to learn before starting ReactJS.**
+```
 Var
 Let 
 Const
@@ -26,3 +26,4 @@ async/await
 map()
 Filter()
 Reduce()
+```
