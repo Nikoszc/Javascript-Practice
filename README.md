@@ -1,4 +1,5 @@
 # Javascript-Practice
+![](/Preview.png)
 This contains file in which I coded and learnt javascript from absolute beginning to advanced topics.
 ## Basic javascripts topics to learn before starting ReactJS.
 ```
@@ -29,4 +30,4 @@ Reduce()
 ```
 
 
-![](/Preview.png)
+
