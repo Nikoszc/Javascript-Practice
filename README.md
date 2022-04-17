@@ -29,4 +29,4 @@ Reduce()
 ```
 
 
-![](/preview.png)
+![](/Preview.png)
