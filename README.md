@@ -27,3 +27,6 @@ map()
 Filter()
 Reduce()
 ```
+
+
+![](/preview.png)
