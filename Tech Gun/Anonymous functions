@@ -1,0 +1,11 @@
+//here the vaiable has become a `function expression`.
+
+let show = function () {
+  console.log("Anonymous function");
+}
+show();
+
+//Another example
+setTimeout(function(){
+  console.log("Hello Anonymous")
+},3000)
